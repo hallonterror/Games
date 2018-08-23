@@ -5,6 +5,7 @@ https://wiki.teamfortress.com/wiki/User:RJackson/StorefrontAPI
 
 Tutorials:
 https://laracasts.com/series/learn-vue-2-step-by-step
+https://medium.com/codingthesmartway-com-blog/vue-js-2-quickstart-tutorial-2017-246195cfbdd2
 
 Profile ID:
 76561197968875112
